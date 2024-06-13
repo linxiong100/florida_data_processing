@@ -1,0 +1,11 @@
+rh
+elev_lowestmode
+elev_highestreturn
+lat_lowestmode
+lon_lowestmode
+shot_number
+quality_flag
+digital_elevation_model
+degrade_flag
+sensitivity
+delta_time
